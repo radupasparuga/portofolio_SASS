@@ -1,0 +1,19 @@
+{
+  "name": "portofolio_sass",
+  "version": "1.0.0",
+  "description": "Portofolio with SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radupasparuga25/portofolio_SASS.git"
+  },
+  "author": "Radu Pasparuga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radupasparuga25/portofolio_SASS/issues"
+  },
+  "homepage": "https://github.com/radupasparuga25/portofolio_SASS#readme"
+}
